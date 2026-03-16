@@ -81,7 +81,7 @@
 
 ### Диаграмма процесса AS IS
 
-*(Здесь вставляется диаграмма текущего процесса)*
+
 
 ![AS IS Process](./artifacts/as_is_process.png)
 
@@ -106,7 +106,7 @@
 
 ### Диаграмма процесса TO BE
 
-*(Здесь вставляется диаграмма целевого процесса)*
+
 
 ![TO BE Process](./artifacts/to_be_process.png)
 
@@ -136,7 +136,7 @@
 
 ### Пример Kanban-доски
 
-*(Здесь вставляется пример Kanban-доски)*
+
 
 ![Kanban Board](./artifacts/kanban_board.png)
 
@@ -156,7 +156,7 @@
 
 ### Пример backlog
 
-*(Здесь вставляется пример backlog)*
+
 
 ![Backlog Example](./artifacts/backlog_structure.png)
 
@@ -178,7 +178,7 @@
 
 ### Матрица приоритизации
 
-*(Здесь вставляется матрица приоритизации)*
+
 
 ![Prioritization Matrix](./artifacts/prioritization_matrix.png)
 
