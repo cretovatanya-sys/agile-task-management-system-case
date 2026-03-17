@@ -135,7 +135,9 @@
 ### Пример Kanban-доски
 
 
-<img width="887" height="691" alt="image" src="artifacts/kanban-1.png" 
+<img width="887" height="691" alt="image" src="artifacts/kanban-1.png"   
+   
+      
 <img width="887" height="691" alt="image" src="artifacts/kanban-2.png" 
 
 ---
