@@ -81,9 +81,7 @@
 
 ### Диаграмма процесса AS IS
 
-
-
-![AS IS Process](./artifacts/AS IS.png)
+<img width="887" height="691" alt="image" src="artifacts/AS IS.png" />
 
 ---
 
@@ -107,8 +105,8 @@
 ### Диаграмма процесса TO BE
 
 
+<img width="887" height="691" alt="image" src="artifacts/TO BE.png" />
 
-![TO BE Process](./artifacts/TO BE.png)
 
 ---
 
@@ -137,8 +135,7 @@
 ### Пример Kanban-доски
 
 
-
-![Kanban Board](./artifacts/kanban.pdf)
+<img width="887" height="691" alt="image" src="artifacts/kanban.pdf" 
 
 ---
 
