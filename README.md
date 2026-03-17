@@ -83,7 +83,7 @@
 
 
 
-![AS IS Process](./artifacts/as_is_process.png)
+![AS IS Process](./artifacts/AS IS.png)
 
 ---
 
@@ -108,7 +108,7 @@
 
 
 
-![TO BE Process](./artifacts/to_be_process.png)
+![TO BE Process](./artifacts/TO BE.png)
 
 ---
 
@@ -138,7 +138,7 @@
 
 
 
-![Kanban Board](./artifacts/kanban_board.png)
+![Kanban Board](./artifacts/kanban.pdf)
 
 ---
 
